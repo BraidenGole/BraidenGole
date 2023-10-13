@@ -12,7 +12,7 @@
 - Desktop GUI technologies:
      - Windows forms
      - Monogame windows forms
-     - Windows Presentation Foundation WPF (Current)
+     - WPF (Windows Presentation Foundation)
 - Mobile technologies:
      - JQuery mobile
      - Java android studio
