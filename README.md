@@ -1,6 +1,7 @@
 - 👨‍💻 Hi, I’m @BraidenGole
 - ⚙️ Skills:
 - Web technologies:
+     - HTML, CSS, Javascript, JQuery
      - Node JS Express
      - C# ASP.NET Core MVC
      - Django python
@@ -16,5 +17,11 @@
 - Mobile technologies:
      - JQuery mobile
      - Java android studio
+- Database technologies:
+     - SQLite
+     - MySQL
+     - Postgres SQL
+     - Monogo Db
+     - Microsoft access
 - 👨‍🏫 Graduate Conestoga College - Computer Programmer
 - 📫 How to reach me: bmxfiend1@gmail.com
