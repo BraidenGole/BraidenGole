@@ -16,6 +16,5 @@
 - Mobile technologies:
      - JQuery mobile
      - Java android studio
-- 🌱 I’m currently learning: C, C++, C#, Python, and Cython
 - 👨‍🏫 Graduate Conestoga College - Computer Programmer
 - 📫 How to reach me: bmxfiend1@gmail.com
