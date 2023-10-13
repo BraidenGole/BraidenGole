@@ -1,14 +1,13 @@
 - 👨‍💻 Hi, I’m @BraidenGole
 - ⚙️ Skills:
 - Web technologies:
-     - HTML, CSS, Javascript, JQuery
      - Node JS Express
      - C# ASP.NET Core MVC
      - Django python
      - Java Bean
 - RESTful API technologies:
      - Node JS Express API
-     - C# swagger API
+     - C# Swagger API
      - Django RESTful framework
 - Desktop GUI technologies:
      - Windows forms
@@ -23,5 +22,13 @@
      - Postgres SQL
      - Monogo Db
      - Microsoft access
+- Additional technologies:
+     - C
+     - C++
+     - Cython
+     - HTML
+     - CSS
+     - Javascript
+     - JQuery
 - 👨‍🏫 Graduate Conestoga College - Computer Programmer
 - 📫 How to reach me: bmxfiend1@gmail.com
