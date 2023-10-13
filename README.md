@@ -1,6 +1,6 @@
 - 👨‍💻 Hi, I’m @BraidenGole
 - ⚙️ Skills:
-    - Web technologies:
+   - Web technologies:
      - Node JS Express
      - C# ASP.NET Core MVC
      - Django python
