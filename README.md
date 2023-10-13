@@ -1,19 +1,19 @@
 - 👨‍💻 Hi, I’m @BraidenGole
 - ⚙️ Skills:
--  - Web technologies:
+    - Web technologies:
      - Node JS Express
      - C# ASP.NET Core MVC
      - Django python
      - Java Bean
--  - RESTful API technologies:
+   - RESTful API technologies:
      - Node JS Express API
      - C# swagger API
      - Django RESTful framework
--  - Desktop GUI technologies:
+   - Desktop GUI technologies:
      - Windows forms
      - Monogame windows forms
      - Windows Presentation Foundation WPF (Current)
--  - Mobile technologies:
+   - Mobile technologies:
      - JQuery mobile
      - Java android studio
 - 🌱 I’m currently learning: C, C++, C#, Python, and Cython
