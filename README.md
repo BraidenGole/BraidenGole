@@ -27,6 +27,7 @@
      - C++
      - Cython
      - HTML
+     - XAML
      - CSS
      - Javascript
      - JQuery
