@@ -22,6 +22,23 @@
      - Postgres SQL
      - Monogo Db
      - Microsoft access
+- Technical diagrams:
+     - Activity
+     - State machine
+     - Use case
+     - Class
+     - Sequence
+     - Entity relationship (ERD)
+     - Data flow (DFD)
+- Testing technologies:
+     - C# NUnit
+     - JMeter
+     - Selenium
+     - Azure dev ops
+     - POSTman
+     - Python unit testing framework
+     - C/C++ custom automation testing
+     - JUnit
 - Additional technologies:
      - C
      - C++
@@ -31,5 +48,6 @@
      - CSS
      - Javascript
      - JQuery
+     - Batch scripting
 - 👨‍🏫 Graduate Conestoga College - Computer Programmer
 - 📫 How to reach me: bmxfiend1@gmail.com
