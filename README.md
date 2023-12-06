@@ -20,7 +20,7 @@
      - SQLite
      - MySQL
      - Postgres SQL
-     - Monogo Db
+     - Mongo DB
      - Microsoft access
 - Technical diagrams:
      - Activity
